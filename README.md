@@ -2,6 +2,8 @@
 
 ![project-trybewarts](https://user-images.githubusercontent.com/82068881/122603094-3dec8480-d04a-11eb-98a3-ddddd715a5f6.png)
 ***
+Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-trybewarts/).
+
 Foram utilizadas as tecnologias HTML, CSS, Javascript e framework Bootstrap.
 
 O objetivo do projeto foi consolidar os conhecimentos em forms, flexbox e o framework Bootstrap.
